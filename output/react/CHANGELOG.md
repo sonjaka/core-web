@@ -1,5 +1,11 @@
 # @db-ux/react-core-components
 
+## 4.5.5
+
+### Patch Changes
+
+- docs(vite): mentioning version 8 configuration in `README.md` file - [see commit 4c5fc92](https://github.com/db-ux-design-system/core-web/commit/4c5fc9266402d9585087f4738a1a800cff1515f1)
+
 ## 4.5.4
 
 ### Patch Changes

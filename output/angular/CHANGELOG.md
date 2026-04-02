@@ -1,5 +1,10 @@
 # @db-ux/ngx-core-components
 
+## 4.5.5
+
+_version bump_
+
+
 ## 4.5.4
 
 ### Patch Changes
